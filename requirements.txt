@@ -1,0 +1,13 @@
+streamlit
+langgraph
+langchain
+langchain-groq
+langchain-text-splitters
+fastembed
+supabase
+pypdf
+python-dotenv
+pandas
+requests
+fastapi
+uvicorn
